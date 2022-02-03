@@ -1,5 +1,9 @@
 # Happiness-Data-Project
 
+ABOUT Me:
+
+A budding data analyst, this is my first project.
+
 This project is focused on the World Happiness Report which focusus on a country's varible that contribute to happiness. These variables include perception to corruption, healthy life expectancy, freedom to make life choices, generosity and social support.
 
 This project was analysed using SQL and Excel and visualised through PowerBI
